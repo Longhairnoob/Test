@@ -1,6 +1,1 @@
-language: ruby
-rvm:
- - 2.2
- - jruby
-
-script: bundle exec rake build && bundle exec rake builddoc
+language: swift
